@@ -1,10 +1,31 @@
 
 /* My name */
-.heading h1{
-    font-size: 100px;
+.heading h1 {
+    font-size: 90px;
     text-align: center;
-    font-family: fantasy;
+    /*font-family: fantasy;*/
+    font-family: 'Space Grotesk', sans-serif;
+    color: #29648A;
+    
 }
+
+.heading {
+    background-color: #25274D;
+    
+}
+
+i {
+    font-size: 5em;
+    color: white;
+}
+
+i:hover {
+    color:#2E9CCA;   
+    /*background-color: orange;*/
+    border: 100px;
+}
+
+
 
 /* color scheme
 color: #25274D;  dark blue
